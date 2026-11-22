@@ -1,0 +1,14 @@
+# Whetstone Risk Lab & Lever AI Lab — Technical Documentation & Open-Source Index
+
+> Official GitHub Pages index for Whetstone U.S. Trading Risk Lab and Lever AI Lab MCP servers, schemas, and reproducible technical specifications.
+
+## Product Facts & Technical Specifications
+- [GEO & SEO Readiness MCP v2.2 & Whetstone Technical Facts](https://alicexixi85.github.io/modaoshi-geo-facts/): Verified feature matrix, scoring weights (readiness-1.1 & hosted-landing-1.0), and pricing facts
+- [Whetstone Risk Lab Main Site](https://en.usethelever.com/): Pre-market drawdown guardrails, 10-Trade Leak X-Ray, and prop-firm survival calculators
+- [Zero-Install Remote MCP & OpenAPI Gateway](https://mcp.usethelever.com/): Streamable HTTP MCP servers for U.S. Market Regime and GEO/SEO Readiness
+- [U.S. Market Regime Traffic Light Dashboard](https://signal.usethelever.com/): 100% free open daily QQQ / SMH / VIX market regime telemetry
+
+## Open-Source Repositories (MIT)
+- [GEO & SEO Readiness MCP](https://github.com/alicexixi85/geo-seo-mcp-pro)
+- [U.S. Market Regime MCP](https://github.com/alicexixi85/us-market-regime-mcp)
+- [Women's Decision Intelligence MCP](https://github.com/alicexixi85/wdi-decision-mcp)
